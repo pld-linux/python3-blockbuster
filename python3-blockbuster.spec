@@ -5,13 +5,13 @@
 Summary:	Utility to detect blocking calls in the async event loop
 Summary(pl.UTF-8):	Narzędzie do wykrywania blokujących wywołań w pętli zdarzeń asynchronicznych
 Name:		python3-blockbuster
-Version:	1.5.24
+Version:	1.5.29
 Release:	1
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/blockbuster/
 Source0:	https://files.pythonhosted.org/packages/source/b/blockbuster/blockbuster-%{version}.tar.gz
-# Source0-md5:	be86e674816fc3e6653af8983dbd3b67
+# Source0-md5:	5ca7fb3048ca5c4767eb2605c40e1f6c
 URL:		https://pypi.org/project/blockbuster/
 BuildRequires:	python3-build
 BuildRequires:	python3-hatchling
